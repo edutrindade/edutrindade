@@ -23,6 +23,6 @@
   <img align="center" alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/edutrindade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edutrindade&layout=compact&theme=dracula)](https://github.com/edutrindade/github-readme-stats)
 
 Educator and Developer. Always looking for the next level.
