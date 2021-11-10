@@ -7,7 +7,7 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=edutrindade&show_icons=true&theme=dracula)
 
-## Technologies I use in my day
+## Technologies I use in my day 💬
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,4 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edutrindade&layout=compact&theme=dracula)](https://github.com/edutrindade/github-readme-stats)
 
-Educator and Developer. Always looking for the next level.
+🔭 Educator (C/C++) and Developer (React, NodeJs, JS & TS). Always looking for the next level 😄
